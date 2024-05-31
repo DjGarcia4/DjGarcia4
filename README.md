@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DjGarcia4](https://github.com/DjGarcia4)
 
-- 💬 Ask me about **JavaScript, React, CSS, Tailwindcss, Bootstrap, PHP, Node**
+- 💬 Ask me about **JavaScript, React, CSS, Tailwindcss, Bootstrap, Vue, Firebase, Node**
 
 - 📫 How to reach me **denisjared286@gmail.com**
 
